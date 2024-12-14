@@ -1,0 +1,20 @@
+{
+  "name": "loginpage",
+  "version": "1.0.0",
+  "description": "Login Page realizada para revisão e consolidação de conceitos básicos de React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luanhts/LoginPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luanhts/LoginPage/issues"
+  },
+  "homepage": "https://github.com/Luanhts/LoginPage#readme"
+}
